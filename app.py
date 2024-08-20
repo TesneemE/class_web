@@ -1,2 +1,2 @@
 import streamlit as st
-HELLO WORLD!
+st.write(HELLO WORLD!)
