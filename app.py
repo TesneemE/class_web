@@ -1,2 +1,2 @@
 import streamlit as st
-st.write(HELLO WORLD!)
+st.markdown("HELLO WORLD!")
